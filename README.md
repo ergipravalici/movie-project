@@ -11,7 +11,7 @@
 
 1. **Start the frontend (Make sure you're in the project root)**  
    ```bash
-   npm run 
+   npm run dev
    
 1. **Start the backend (In a new terminal tab)**  
    ```bash
